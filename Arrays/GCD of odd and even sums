@@ -1,0 +1,17 @@
+class Solution:
+    def gcdOfOddEvenSums(self, n: int) -> int:
+        sumodd=0
+        for i in range(1,2*n,2):
+            sumodd+=i
+
+        sumeven=0
+        for i in range(0,(2*n)+1,2):
+            sumeven+=i
+        
+
+        while sumeven!=0:
+            sumodd,sumeven=sumeven,sumodd%sumeven
+
+        return sumodd
+
+        
