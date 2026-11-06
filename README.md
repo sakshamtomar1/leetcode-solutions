@@ -9,6 +9,7 @@ All my leetcode solutions will appear here.
 | [0014-longest-common-prefix](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
