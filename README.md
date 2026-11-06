@@ -10,6 +10,7 @@ All my leetcode solutions will appear here.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ All my leetcode solutions will appear here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +45,8 @@ All my leetcode solutions will appear here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
