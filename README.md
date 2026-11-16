@@ -8,6 +8,7 @@ All my leetcode solutions will appear here.
 | [0001-two-sum](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0054-spiral-matrix](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0169-majority-element](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -48,5 +49,10 @@ All my leetcode solutions will appear here.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
