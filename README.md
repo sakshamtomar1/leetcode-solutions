@@ -12,6 +12,7 @@ All my leetcode solutions will appear here.
 | [0055-jump-game](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0169-majority-element](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0274-h-index](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0274-h-index/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
@@ -19,6 +20,7 @@ All my leetcode solutions will appear here.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +72,16 @@ All my leetcode solutions will appear here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0274-h-index/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sakshamtomar1/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
